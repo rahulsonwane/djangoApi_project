@@ -122,6 +122,7 @@ USE_TZ = True
 STATIC_URL = 'static/'
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
+    'https://todolist0212.herokuapp.com',
 ]
 
 # Default primary key field type
